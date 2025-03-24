@@ -1,0 +1,39 @@
+{
+  "songs": [
+    {
+      "title": "Beautiful Things",
+      "artist": "Benson Boone",
+      "views": "1,953,000,000 views",
+      "year": "2024",
+      "youtubeUrl": "https://www.youtube.com/watch?v=Oa_RSwwpPaA"
+    },
+    {
+      "title": "Love in The Dark",
+      "artist": "Adele",
+      "views": "946,000,000 views",
+      "year": "2015",
+      "youtubeUrl": "https://www.youtube.com/watch?v=-hzFTJDJGkQ"
+    },
+    {
+      "title": "Mein Herz Brennt",
+      "artist": "Rammstein",
+      "views": "224,000,000 views",
+      "year": "2001",
+      "youtubeUrl": "https://www.youtube.com/watch?v=WXv31OmnKqQ"
+    },
+    {
+      "title": "Stag",
+      "artist": "Soppgirobygget",
+      "views": "11,000,000 views",
+      "year": "2024",
+      "youtubeUrl": "https://www.youtube.com/watch?v=FDJWoFs0H4c"
+    },
+    {
+      "title": "Good For You",
+      "artist": "Selena Gomez",
+      "views": "792,000,000 views",
+      "year": "2015",
+      "youtubeUrl": "https://www.youtube.com/watch?v=1TsVjvEkc4s"
+    }
+  ]
+}
